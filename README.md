@@ -9,6 +9,7 @@ Unlike a filled pyramid, this pattern prints stars only at the boundaries of the
 This example demonstrates important programming concepts such as nested loops, conditional logic, and pattern formatting.
 
 ⚙️ Source Code
+
 n = 4
 
 for i in range(1, n+1):
