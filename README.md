@@ -1,4 +1,5 @@
 📘 Hollow Pyramid Star Pattern in Python
+
 📌 Overview
 
 This Python program prints a Hollow Pyramid Star (*) Pattern using nested loops and conditional statements.
