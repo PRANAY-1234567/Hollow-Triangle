@@ -71,6 +71,7 @@ Otherwise, spaces are printed to create the hollow interior.
    * * 
   *   * 
  * * * * * * *
+ 
 🔑 Key Concepts Demonstrated
 
 Nested loops
