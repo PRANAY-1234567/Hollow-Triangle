@@ -104,7 +104,6 @@ Example larger pyramid:
  *       *
 * * * * * * * * *
 📚 Learning Outcomes
-
 After studying this program, you will understand:
 
 How to create hollow geometric patterns
